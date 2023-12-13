@@ -4,7 +4,6 @@
 To develop a website to display the cover page design of a book
 
 ## Design Steps:
-
 ### Step 1:
 Write your own steps here.
 ### Step 2:
@@ -22,8 +21,7 @@ Insert rhe images in their appropriate places.
 ### Step 8:
 publish the website in the localHost.
 ## PROGRAM:
-```
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
     <head>
          <meta name="viewport" 
@@ -138,10 +136,8 @@ publish the website in the localHost.
             </div>
         </div>
     </body>
-</html> 
+</html>
 ```
-
-
 ## Output:
 ![Screenshot from 2023-12-13 00-01-00](https://github.com/HARININAGAPPAN/cover-page-design/assets/147473910/3934af9e-fd0c-4c44-9ec2-6490832b97dd)
 ## Result:
